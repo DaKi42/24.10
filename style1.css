@@ -1,0 +1,15 @@
+span{
+    font-weight: bold;
+}
+div{
+    margin-top: 40px;
+    width: 400px;
+    height: 250px;
+    background-color: rgb(216, 213, 213);
+    border-radius: 2px;
+    border: 1px solid;
+}
+
+ol li{
+    color: rgb(90, 90, 197);
+}
